@@ -1,4 +1,4 @@
-👋 Hi, I'm Mehmood Islam
+<h1>👋 Hi, I'm Mehmood Islam </h1>
 💻 Full Stack Developer | WordPress Developer | MERN Stack
 
 <p align="center">
@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=mehmoodislam&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-🚀 About Me
+<h3>🚀 About Me</h3>
 
 <table>
 <tr>
@@ -25,7 +25,7 @@
 </tr>
 </table>
 
-🤝 Connect With Me
+<h3>🤝 Connect With Me</h3>
 
 <table>
 <tr>
@@ -50,8 +50,8 @@
 </tr>
 </table>
 
-🛠️ Tech Stack
-Frontend Development
+<h3>🛠️ Tech Stack
+Frontend Development</h3>
 
 <table>
 <tr>
@@ -73,7 +73,7 @@ Frontend Development
 </tr>
 </table>
 
-Backend & Database
+<h3>Backend & Database</h3>
 
 <table>
 <tr>
@@ -95,7 +95,7 @@ Backend & Database
 </tr>
 </table>
 
-Frameworks & Tools
+<h3>Frameworks & Tools</h3>
 
 <table>
 <tr>
@@ -117,7 +117,7 @@ Frameworks & Tools
 </tr>
 </table>
 
-📊 GitHub Statistics
+<h3>📊 GitHub Statistics</h3>
 
 <table>
 <tr>
@@ -135,13 +135,13 @@ Frameworks & Tools
 </tr>
 </table>
 
-🏆 GitHub Trophies
+<h3>🏆 GitHub Trophies</h3>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=mehmoodislam&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies"/>
 </p>
 
-🎯 Current Focus
+<h3>🎯 Current Focus</h3>
 
 <table>
 <tr>
