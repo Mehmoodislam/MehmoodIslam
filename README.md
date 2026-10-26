@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mehmood Islam</h1>
 <h3 align="center">Full Stack Developer | WordPress Developer | Mern Stack</h3>
+<p align="center">
+  <img src="./github_developer_banner.gif" width="400" alt="Coding animation">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmoodislam&label=Profile%20views&color=0e75b6&style=flat" alt="mehmoodislam" /> </p>
 
