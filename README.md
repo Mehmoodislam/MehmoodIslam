@@ -14,12 +14,7 @@
 <table>
 <tr>
 <td>
-
-🌱 Currently learning React Native & PHP
-💻 Portfolio: mehmood-islam.vercel.app
-💬 Ask me about React, WordPress, PHP & Shopify
-📫 Email: **mehmoodislam10@gmail.com**
-⚡ Passionate about building modern web applications and user-friendly digital experiences.
+👋 Hi, I'm Mehmood Islam — a Full Stack Developer specializing in WordPress, MERN Stack, PHP, Laravel, React, and React Native. I build high-performance websites and scalable web & mobile applications.
 
 </td>
 </tr>
