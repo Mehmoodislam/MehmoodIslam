@@ -1,31 +1,169 @@
-<h1 align="center">Hi 👋, I'm Mehmood Islam</h1>
-<h3 align="center">Full Stack Developer | WordPress Developer | Mern Stack</h3>
+👋 Hi, I'm Mehmood Islam
+💻 Full Stack Developer | WordPress Developer | MERN Stack
+
 <p align="center">
-  <img src="./github_developer_banner.gif" width="400" alt="Coding animation">
+<img src="./github_developer_banner.gif" width="400" alt="Coding Animation" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmoodislam&label=Profile%20views&color=0e75b6&style=flat" alt="mehmoodislam" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehmoodislam" alt="mehmoodislam" /></a> </p>
-
-- 🌱 I’m currently learning **React Native, PHP**
-
-- 👨‍💻 All of my projects are available at [https://mehmood-islam.vercel.app/](https://mehmood-islam.vercel.app/)
-
-- 💬 Ask me about **React, Wordpress, PHP, Shopify**
-
-- 📫 How to reach me **mehmoodislam10@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mehmood-islam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehmood-islam/" height="30" width="40" /></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mehmoodislam&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+🚀 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmoodislam&show_icons=true&locale=en&layout=compact" alt="mehmoodislam" /></p>
+<table>
+<tr>
+<td>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmoodislam&show_icons=true&locale=en" alt="mehmoodislam" /></p>
+🌱 Currently learning React Native & PHP
+💻 Portfolio: mehmood-islam.vercel.app
+💬 Ask me about React, WordPress, PHP & Shopify
+📫 Email: **mehmoodislam10@gmail.com**
+⚡ Passionate about building modern web applications and user-friendly digital experiences.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmoodislam&" alt="mehmoodislam" /></p>
+</td>
+</tr>
+</table>
+
+🤝 Connect With Me
+
+<table>
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/mehmood-islam/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+<br/>LinkedIn
+</a>
+</td>
+<td align="center">
+<a href="mailto:mehmoodislam10@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email"/>
+<br/>Email
+</a>
+</td>
+<td align="center">
+<a href="https://mehmood-islam.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel" width="45" alt="Portfolio"/>
+<br/>Portfolio
+</a>
+</td>
+</tr>
+</table>
+
+🛠️ Tech Stack
+Frontend Development
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5"/><br/>HTML5
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3"/><br/>CSS3
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"/><br/>JavaScript
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="45" alt="React"/><br/>React
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=ts" width="45" alt="TypeScript"/><br/>TypeScript
+</td>
+</tr>
+</table>
+
+Backend & Database
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js"/><br/>Node.js
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=express" width="45" alt="Express"/><br/>Express
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=php" width="45" alt="PHP"/><br/>PHP
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"/><br/>MySQL
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=firebase" width="45" alt="Firebase"/><br/>Firebase
+</td>
+</tr>
+</table>
+
+Frameworks & Tools
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="45" alt="Bootstrap"/><br/>Bootstrap
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind CSS"/><br/>Tailwind
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=wordpress" width="45" alt="WordPress"/><br/>WordPress
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=flutter" width="45" alt="Flutter"/><br/>Flutter
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git,github" width="45" alt="Git and GitHub"/><br/>Git & GitHub
+</td>
+</tr>
+</table>
+
+📊 GitHub Statistics
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=mehmoodislam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub Statistics"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmoodislam&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmoodislam&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Contribution Streak"/>
+</td>
+</tr>
+</table>
+
+🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mehmoodislam&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies"/>
+</p>
+
+🎯 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+📱 React Native
+
+Learning mobile application development and cross-platform experiences.
+
+</td>
+<td width="50%">
+
+🐘 PHP
+
+Improving backend development skills and building dynamic web applications.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<b>✨ Thanks for visiting my profile!</b>
+<br/>
+<i>Let's connect, collaborate, and build something amazing.</i>
+</p>
