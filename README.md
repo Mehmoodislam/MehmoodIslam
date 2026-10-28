@@ -136,7 +136,7 @@ Frontend Development</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=mehmoodislam&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies"/>
 </p>
 
-<h3>🎯 Current Focus</h3>
+<h3>🎯 Current Focu</h3>
 
 <table>
 <tr>
