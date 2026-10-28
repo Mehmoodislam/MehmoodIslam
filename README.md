@@ -158,7 +158,7 @@ Improving backend development skills and building dynamic web applications.
 </table>
 
 <p align="center">
-<b>✨ Thanks for visiting my profile</b>
+<b>✨ Thanks for visiting my profile!</b>
 <br/>
 <i>Let's connect, collaborate, and build something amazing.</i>
 </p>
