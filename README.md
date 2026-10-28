@@ -20,7 +20,7 @@
 </tr>
 </table>
 
-<h3>🤝 Connect With Me</h3>
+<h3>🤝 Connect With </h3>
 
 <table>
 <tr>
