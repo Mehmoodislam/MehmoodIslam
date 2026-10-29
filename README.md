@@ -68,7 +68,7 @@ Frontend Development</h3>
 </tr>
 </table>
 
-<h3>Backend & Databas</h3>
+<h3>Backend & Database</h3>
 
 <table>
 <tr>
