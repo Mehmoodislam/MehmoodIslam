@@ -14,7 +14,7 @@
 <table>
 <tr>
 <td>
-👋 Hi, I'm Mehmood Isla — a Full Stack Developer specializing in WordPress, MERN Stack, PHP, Laravel, React, and React Native. I build high-performance websites and scalable web & mobile applications.
+👋 Hi, I'm Mehmood Islam — a Full Stack Developer specializing in WordPress, MERN Stack, PHP, Laravel, React, and React Native. I build high-performance websites and scalable web & mobile applications.
 
 </td>
 </tr>
