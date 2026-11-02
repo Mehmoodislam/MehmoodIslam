@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mehmood Islam </h1>
-<p align="center" >💻 Full Stack Developer | WordPress Developer | MERN Stack</p>
+<p align="center" >💻 Full Stack Developer | WordPress Developer | MERN Stac</p>
 
 <p align="center">
 <img src="./github_developer_banner.gif" width="600" alt="Coding Animation" />
